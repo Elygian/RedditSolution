@@ -2,6 +2,7 @@
 #include <sstream>
 #include <vector>
 
+//Random comment
 struct Person {
 	std::string name, surname, telephone, email;
 };
